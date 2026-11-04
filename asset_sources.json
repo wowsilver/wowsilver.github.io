@@ -1,0 +1,44 @@
+[
+  {
+    "file": "assets/coast.jpg",
+    "source": "https://unsplash.com/photos/a-beautiful-blue-lake-surrounded-by-trees-and-mountains-k4bSibOhR74",
+    "author": "Hilmi Can Taşkıran",
+    "alt": "Олюдениз, Турция",
+    "license": "https://unsplash.com/license"
+  },
+  {
+    "file": "assets/thailand.jpg",
+    "source": "https://unsplash.com/photos/a-beach-with-a-rock-formation-and-clear-blue-water-1QUUFuOsRk4",
+    "author": "Margo Kosh",
+    "alt": "Пляж и известняковые скалы в Таиланде",
+    "license": "https://unsplash.com/license"
+  },
+  {
+    "file": "assets/dubai.jpg",
+    "source": "https://unsplash.com/photos/dubai-skyline-at-low-sun-6oUsyeYXgTg",
+    "author": "Piotr Chrobot",
+    "alt": "Панорама Дубая",
+    "license": "https://unsplash.com/license"
+  },
+  {
+    "file": "assets/karelia.jpg",
+    "source": "https://unsplash.com/photos/a-body-of-water-surrounded-by-trees-and-rocks-0oRLcOnIwYI",
+    "author": "Vadim Shevyrin",
+    "alt": "Озеро и скалы в Карелии",
+    "license": "https://unsplash.com/license"
+  },
+  {
+    "file": "assets/maldives.jpg",
+    "source": "https://unsplash.com/photos/a-sandy-beach-with-palm-trees-and-clear-blue-water-Y0TnIJF3TQE",
+    "author": "World Wanderer",
+    "alt": "Пляж на Мальдивах",
+    "license": "https://unsplash.com/license"
+  },
+  {
+    "file": "assets/egypt.jpg",
+    "source": "https://unsplash.com/photos/a-coral-reef-under-water-da0iUZVn9bs",
+    "author": "Raimond Klavins",
+    "alt": "Коралловый риф в Красном море, Египет",
+    "license": "https://unsplash.com/license"
+  }
+]
